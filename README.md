@@ -1,2 +1,2 @@
-# This is to be the site where i see all<br>
-The do all and end all
+# My Page
+Finally getting around to creating a page of my own. Many thanks to GitHub for making it as easy as they have.
