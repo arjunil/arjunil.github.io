@@ -16,13 +16,17 @@ Having worked at Infosys for almost three years and at Amazon for two, I can saf
 Master's in Computer Science from the State University of New York at Buffalo (Yes, that cold place which for the most part I didn't mind much, despite my tropical origins)
 Bachelor's in Electronics and Communcation Engineering from West Bengal University of Technology (Heritage Institure of Technology)
 
-And a shout out to all the wonderful people I've met along the way in life thus far, who have intentionally or unintentionally) influenced my path in life and inadvertently imparted me an education I occasionally remember to be grateful for. Hopefully you know who you are, if not, watch out. I will ifnd you and let you know.
+And a shout out to all the wonderful people I've met along the way in life thus far, who have (intentionally or unintentionally) influenced my path in life and inadvertently imparted me an education I occasionally remember to be grateful for. Hopefully you know who you are, if not, watch out. I will find you and let you know, if/when I get around to it, in case I haven't already.
 
 # Projects
 I made a simplified DynamoDB replica in grad school that I was fairly proud of, because it did cool things involving CHORD and DHTs. Ask me about it sometime.
 
 I also had the fortune of being advised during my Master's by Kenny (a.k.a Kenneth Joseph at UB) , who played a pivotal role in piquing my interest in computational social science and as a consequence (of immense efforts and guidance that we will skim over in the interest of time and patience, but not lack of gratitude) , I now am an officially published researcher : https://dl.acm.org/doi/abs/10.1145/3479502 or if you prefer https://arxiv.org/abs/2107.14120 
 
-
-#Add links  to repos for projects, and add buttons for github, and gmail
-
+# Links
+A sparsely populated github: https://github.com/arjunil
+An email should you desire to get in touch to discuss Life, The Universe and Everything : arjunilpathak@gmail.com
+A handful of sites to amuse you should they still exist when you're reading this 
+https://www.nytimes.com/games/wordle/index.html
+https://worldle.teuteuf.fr/
+https://www.quordle.com/#/
