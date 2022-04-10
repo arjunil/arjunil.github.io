@@ -1,16 +1,16 @@
 # About me
 
-I'm currently playing the role of a Software Developer at AWS (Amazon Web Services, for the uninitiated)
+I'm currently playing the role of a Software Developer at AWS (Amazon Web Services, for the uninitiated).  
 In the past I have played the many roles that are a part of being a graduate student of Computer Science and Engineering at the State Universty of New York at Buffalo, a systems engineer at Infosys.
 
 I occasionally tinker with the guitar, and take long walks into the wilderness (Pandemics and wildfires allowing). I have been intending to get into climbing and will eventually get around to it once I make it past the usual amounts of procrastination that come with existence.
 
-I am currently engaged in the fast.ai course for deep learning which is turning out equal parts entertaining and educational
+I am currently engaged in the fast.aI course for deep learning which is turning out equal parts entertaining and educational.
 
 # Software Experience
 
-I've dabbled a fair bit in the networking side of things. The more i dabble, the less i find I know.
-Having worked at Infosys for almost three years and at Amazon for two, I can dafely say that that I am acutely aware of how little I truly know about anything. Fortunately, I'm quite adept at at my futile attempts at changing that, which makes for a great Sisyphean struggle. Much like life; but i digress.
+I've dabbled a fair bit in the networking side of things. The more I dabble, the less I find I know.
+Having worked at Infosys for almost three years and at Amazon for two, I can dafely say that that I am acutely aware of how little I truly know about anything. Fortunately, I'm quite adept at at my futile attempts at changing that, which makes for a great Sisyphean struggle. Much like life; but I digress.
 
 # Education
 Master's in Computer Science from the State University of New York at Buffalo (Yes, that cold place which for the most part I didn't mind much, despite my tropical origins)
