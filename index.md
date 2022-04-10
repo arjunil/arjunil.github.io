@@ -10,7 +10,7 @@ I am currently engaged in the fast.aI course for deep learning which is turning 
 # Software Experience
 
 I've dabbled a fair bit in the networking side of things. The more I dabble, the less I find I know.
-Having worked at Infosys for almost three years and at Amazon for two, I can dafely say that that I am acutely aware of how little I truly know about anything. Fortunately, I'm quite adept at at my futile attempts at changing that, which makes for a great Sisyphean struggle. Much like life; but I digress.
+Having worked at Infosys for almost three years and at Amazon for two, I can safely say that that I am acutely aware of how little I truly know about anything. Fortunately, I'm quite adept at my futile attempts at changing that, which makes for a great Sisyphean struggle. Much like life; but I digress.
 
 # Education
 Master's in Computer Science from the State University of New York at Buffalo (Yes, that cold place which for the most part I didn't mind much, despite my tropical origins)
@@ -20,11 +20,8 @@ And a shout out to all the wonderful people I've met along the way in life thus 
 
 # Projects
 I made a simplified DynamoDB replica in grad school that I was fairly proud of, because it did cool things involving CHORD and DHTs. Ask me about it sometime.
-I also had the fortune of being advised during my Master's by Kenny (a.k.a Kenneth Joseph at UB) , who played a pivotal role in piquing my interest in computational social sciences and as a consequence(of immense efforts and guidance that we will skim over in the interest of time and patience, but no lack of gratitude) , I now am an officially published researcher : https://dl.acm.org/doi/abs/10.1145/3479502 or if you prefer https://arxiv.org/abs/2107.14120 
+I also had the fortune of being advised during my Master's by Kenny (a.k.a Kenneth Joseph at UB) , who played a pivotal role in piquing my interest in computational social science and as a consequence (of immense efforts and guidance that we will skim over in the interest of time and patience, but not lack of gratitude) , I now am an officially published researcher : https://dl.acm.org/doi/abs/10.1145/3479502 or if you prefer https://arxiv.org/abs/2107.14120 
 
 
-# Tech stuff
-
-
-#Add links  to repos for projects, and add buttons for github, twitter and gmail
+#Add links  to repos for projects, and add buttons for github, and gmail
 
