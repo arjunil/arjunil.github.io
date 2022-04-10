@@ -1,7 +1,7 @@
 # About me
 
 I'm currently playing the role of a Software Developer at AWS (Amazon Web Services, for the uninitiated).  
-In the past I have played the many roles that are a part of being a graduate student of Computer Science and Engineering at the State Universty of New York at Buffalo, a systems engineer at Infosys.
+In the past I have played the many roles that are a part of being a graduate student of Computer Science and Engineering at the State Universty of New York at Buffalo, and prior to that a Systems Engineer at Infosys.
 
 I occasionally tinker with the guitar, and take long walks into the wilderness (Pandemics and wildfires allowing). I have been intending to get into climbing and will eventually get around to it once I make it past the usual amounts of procrastination that come with existence.
 
