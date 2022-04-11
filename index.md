@@ -14,6 +14,7 @@ Having worked at Infosys for almost three years and at Amazon for two, I can saf
 
 # Education
 Master's in Computer Science from the State University of New York at Buffalo (Yes, that cold place which, for the most part, I didn't mind much despite my tropical origins)  
+
 Bachelor's in Electronics and Communcation Engineering from West Bengal University of Technology (Heritage Institure of Technology)
 
 And a shout out to all the wonderful people I've met along the way in life thus far, who have (intentionally or unintentionally) influenced my path in life and inadvertently imparted me an education I occasionally remember to be grateful for. Hopefully you know who you are, if not, watch out. I will find you and let you know, if/when I get around to it, in case I haven't already.
