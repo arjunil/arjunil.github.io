@@ -9,11 +9,11 @@ I am currently engaged in the fast.aI course for deep learning which is turning 
 
 # Software Experience
 
-I've dabbled a fair bit in the networking side of things. The more I dabble, the less I find I know.
+I've dabbled a fair bit in the networking side of things. The more I dabble, the less I find I know.  
 Having worked at Infosys for almost three years and at Amazon for two, I can safely say that that I am acutely aware of how little I truly know about anything. Fortunately, I'm quite adept at my futile attempts at changing that, which makes for a great Sisyphean struggle. Much like life; but I digress.
 
 # Education
-Master's in Computer Science from the State University of New York at Buffalo (Yes, that cold place which for the most part I didn't mind much, despite my tropical origins)
+Master's in Computer Science from the State University of New York at Buffalo (Yes, that cold place which, for the most part, I didn't mind much despite my tropical origins)  
 Bachelor's in Electronics and Communcation Engineering from West Bengal University of Technology (Heritage Institure of Technology)
 
 And a shout out to all the wonderful people I've met along the way in life thus far, who have (intentionally or unintentionally) influenced my path in life and inadvertently imparted me an education I occasionally remember to be grateful for. Hopefully you know who you are, if not, watch out. I will find you and let you know, if/when I get around to it, in case I haven't already.
